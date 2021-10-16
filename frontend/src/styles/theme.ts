@@ -1,10 +1,9 @@
-// @ts-ignore
-import { createTheme } from '@mui/material';
+import { createTheme } from "@material-ui/core";
 
 export default createTheme({
   palette: {
     primary: {
-      main: "#FFF",
+      main: "#000",
     },
     success: {
       main: "#000",
